@@ -5,7 +5,7 @@ Repositório destinado à resolução da primeira lista de exercícios da discip
 ## 💻 Tecnologias e Conceitos
 * **Linguagem:** Java
 * **Entrada de Dados:** `java.util.Scanner`
-* **Conceitos abordados:** Declaração de variáveis, tipos primitivos (`int`, `double`, `String`), operadores matemáticos, concatenação e manipulação de memória (Swap).
+* **Conceitos abordados:** Declaração de variáveis, tipos primitivos (`int`, `double`, `String`), operadores matemáticos, concatenação, manipulação de memória (Swap) e operadores de divisão/resto (`/` e `%`).
 
 ## 🚀 Exercícios Concluídos
 
@@ -13,6 +13,7 @@ Repositório destinado à resolução da primeira lista de exercícios da discip
 * **Exercício 02:** Calculadora Básica. Recebe dois números (`double`) e exibe os resultados da soma, subtração, multiplicação e divisão real entre eles.
 * **Exercício 03:** Troca de Variáveis (Swap). Recebe dois valores (A e B) e, utilizando uma variável auxiliar na memória, inverte os valores de forma que A passe a valer B e vice-versa.
 * **Exercício 04:** Conversor de Idade. Recebe a idade do usuário expressa em anos, meses e dias, e processa o cálculo matemático para exibir a idade total expressa apenas em dias.
+* **Exercício 05:** Conversor de Idade (Inverso). Recebe a idade total expressa em dias e, utilizando matemática de divisão inteira e o operador de módulo (`%`), converte e exibe o valor desmembrado em anos, meses e dias restantes.
 
 ---
-*Desenvolvido por Natã durante o 1º Semestre.*
+*Desenvolvido e revisado por Natã durante o 3º Semestre.*
